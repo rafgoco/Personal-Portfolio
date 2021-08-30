@@ -1,0 +1,14 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass  scss/ -o dist/css/ --recursive "
+  },
+  "author": "Rafael Goco",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
